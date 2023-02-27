@@ -9,4 +9,4 @@ I'm still working on my skills. So stay curious.
 - HTML
 - CSS
 - JavaScript
-- React
+- <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
