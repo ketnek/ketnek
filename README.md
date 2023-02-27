@@ -1,4 +1,4 @@
-# Moin, Moin!
+# Moin, Moin! 🤙🏼
 ## Welcome to my page. 
 I'm Kevin, a self-taught full stack web developer from the the north of germany.
 I'm still working on my skills. So stay curious.
