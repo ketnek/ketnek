@@ -1,9 +1,6 @@
 # Moin, Moin! 🤙🏼
 ## Welcome to my page. 
-I'm Kevin, a self-taught full stack web developer from the the north of germany.
-I'm still working on my skills. So stay curious.
-
-![A test image](https://media.gettyimages.com/id/1124838925/de/vektor/programmierung-code-anwendungsfenster.jpg?s=1024x1024&w=gi&k=20&c=ssmKlPDecbSRnMpOGoWHEQW4P_lNkXKo6gpJhB83jsM=)
+I'm Kevin, a Frontend Web Developer from the the north of germany.
 
 ### Things I code with:
 - <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
